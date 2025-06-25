@@ -8,4 +8,5 @@
 ### AI Agents Bootcamp
 1. https://www.youtube.com/watch?v=1SsoU8L_hlw&ab_channel=Vizuara - AI Agents Bootcamp Kickoff: What are AI Agents?
 2. https://www.youtube.com/watch?v=dyfyOpxsAnE&ab_channel=Vizuara - Inside the brain of AI Agents: Large Language Models
+3. https://www.youtube.com/watch?v=b5VTRXWk58g&ab_channel=Vizuara - How AI Agents really work: The ReAct Framework
    
